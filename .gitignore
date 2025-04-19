@@ -1,0 +1,32 @@
+# Node.js modules
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage directory
+coverage/
+
+# IDE settings (for VSCode, WebStorm, etc.)
+.vscode/
+.idea/
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
